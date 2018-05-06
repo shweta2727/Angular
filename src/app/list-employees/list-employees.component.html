@@ -1,0 +1,23 @@
+<h1>Employees List</h1>
+<div class="container">
+  <table class="table">
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Phone</th>
+      <th>City</th>
+      <th>Address1</th>
+      <th>Address2</th>
+      <th>Postal Code</th>
+    </tr>
+    <tr *ngFor="let employee of emp">
+      <td>{{employee.id}}</td>
+      <td>{{employee.name}}</td>
+      <td>{{employee.phone | napip }}</td>
+      <td>{{employee.address.city}}</td>
+      <td>{{employee.address.address_line1}}</td>
+      <td>{{employee.address.address_line2}}</td>
+      <td>{{employee.address.postal_code}}</td>
+    </tr>
+  </table>
+</div>

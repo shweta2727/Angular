@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Jhon",
+      "phone": "9",
+      "address": {
+        "city": "Pune",
+        "address_line1": "ABC road",
+        "address_line2": "XYZ building",
+        "postal_code": "12455"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jacob",
+      "phone": "AZ99A99PQ9",
+      "address": {
+        "city": "Pune",
+        "address_line1": "PQR road",
+        "address_line2": "ABC building",
+        "postal_code": "13455"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Ari",
+      "phone": "145458522",
+      "address": {
+        "city": "Mumbai",
+        "address_line1": "ABC road",
+        "address_line2": "XYZ building",
+        "postal_code": "12455"
+      }
+    },
+    {
+      "id": 4,
+      "name": "hgkjh",
+      "phone": "97",
+      "address": [
+        {
+          "city": "",
+          "address_line1": "",
+          "address_line2": "",
+          "postal_code": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "shwe",
+      "phone": "34",
+      "address": [
+        {
+          "city": "gkls",
+          "address_line1": "sg",
+          "address_line2": "sg",
+          "postal_code": "sg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "ahwer",
+      "phone": "345",
+      "address": [
+        {
+          "city": "dg",
+          "address_line1": "dg",
+          "address_line2": "eg",
+          "postal_code": "eg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "shweta",
+      "phone": "86",
+      "address": [
+        {
+          "city": "hg",
+          "address_line1": "h",
+          "address_line2": "hf",
+          "postal_code": "jh"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "shweta",
+      "phone": "235",
+      "address": {
+        "city": "sdf",
+        "address_line1": "ssdf",
+        "address_line2": "sdf",
+        "postal_code": "sf"
+      }
+    },
+    {
+      "id": 9,
+      "name": "neeti",
+      "phone": "32",
+      "address": {
+        "city": "skdl",
+        "address_line1": "sf",
+        "address_line2": "sf",
+        "postal_code": "f"
+      }
+    },
+    {
+      "id": 10,
+      "name": "shweta",
+      "phone": "1234",
+      "address": {
+        "city": "ddun",
+        "address_line1": "sdflj",
+        "address_line2": "sdgl",
+        "postal_code": "234"
+      }
+    },
+    {
+      "id": 11,
+      "name": "shweta",
+      "phone": "1234",
+      "address": {
+        "city": "ddun",
+        "address_line1": "sdflj",
+        "address_line2": "sdgl",
+        "postal_code": "234"
+      }
+    },
+    {
+      "id": 12,
+      "name": "abcd",
+      "phone": "1234",
+      "address": {
+        "city": "dsf",
+        "address_line1": "sdf",
+        "address_line2": "svf",
+        "postal_code": "asf"
+      }
+    },
+    {
+      "id": 13,
+      "name": "abcd",
+      "phone": "1234",
+      "address": {
+        "city": "dsf",
+        "address_line1": "sdf",
+        "address_line2": "svf",
+        "postal_code": "asf"
+      }
+    }
+  ]
+}
